@@ -1,13 +1,25 @@
 ### Hi there 👋,
 ### welcome to my profile!
 
+
+
+🧰 Framework
+
+<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="dotnet core" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" alt="dotnet" width="50" height="50"/> 
+
 ---
 
-🧰 Toolbox
+🧰 Services
 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="dotnet core" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" alt="dotnet" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="Rabbit MQ" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Amazon AWS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github-2.svg" alt="github" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="Rabbit MQ" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" alt="Amazon AWS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github-2.svg" alt="github" width="50" height="50"/>
 
 ---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamichi2385&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
