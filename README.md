@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm hanamichi2385</h1>
+<h1>👋 Hi, I'm hanamichi2385</h1>
 <h3>A passionate fullstack .NET developer from Italy</h3>
 
 - 💬 Ask me about **ecommerce & omnichannel solutions**
